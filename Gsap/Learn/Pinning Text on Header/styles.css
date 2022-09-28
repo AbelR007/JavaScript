@@ -1,0 +1,37 @@
+body {
+  margin: 0;
+}
+
+.block1 {
+  background-color: #222;
+  height: 100vh;
+}
+
+.spacer {
+  height: 100px;
+}
+.title {
+  width: auto;
+}
+
+
+.text {
+  /* Looks */
+  color: white;
+  font-family: 'JetBrains Mono',sans-serif;
+  font-weight: bolder;
+  font-size: larger;
+  /* Looks end */
+  display: flex;
+}
+.text2 {
+  font-size: small;
+  font-weight: lighter;
+
+}
+
+.block2 {
+  background-color: aquamarine;
+  height: 100vh;
+}
+
